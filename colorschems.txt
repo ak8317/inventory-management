@@ -1,0 +1,5 @@
+#343a40-primary,#57616B
+#99CCFF-blue,#75B0EB-dark
+#9E752F,yellow,#EBBF75
+
+#C8E0F7-shades,#A9BDD1,#BED4EB
